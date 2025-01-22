@@ -33,10 +33,10 @@ export class EmployeeService {
         email: 'rquintana@hau.edu.ph'
       },
       { 
-        id: 20935473, 
-        firstname: 'Bryan Aaron', 
-        lastname: 'Santiago', 
-        email: 'bbsantiago@hau.edu.ph'
+        id: 20762640, 
+        firstname: 'Almina', 
+        lastname: 'Tanglao', 
+        email: 'aptanglao@hau.edu.ph'
       },
     ]
   }
